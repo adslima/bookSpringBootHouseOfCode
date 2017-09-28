@@ -21,7 +21,7 @@ import br.com.helo.microservices.repository.PropriedadeRepository;
 public class PropriedadeController {
 
 	/**
-	 *
+	 * Representa o controle sobre o repositorio
 	 */
 	@Autowired
 	private PropriedadeRepository repository;
